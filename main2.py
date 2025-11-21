@@ -8,6 +8,7 @@ from transformers import pipeline
 import hashlib
 
 st.header("My First ChatBot")
+host = njvaspa0046
 
 # --- File Upload ---
 with st.sidebar:
