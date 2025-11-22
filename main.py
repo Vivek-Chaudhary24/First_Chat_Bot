@@ -8,7 +8,7 @@ from transformers import pipeline
 import requests
 
 st.header("My First ChatBot")
-host=njvaspa0046
+host=njvaspa0050
 # --- File Upload ---
 with st.sidebar:
     st.title("Your Documents")
